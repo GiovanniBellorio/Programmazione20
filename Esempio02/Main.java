@@ -1,12 +1,10 @@
+/**
+ * 
+ */
 package Esempio02;
 
-/**
- * ESERCIZIO 1
- * LEZIONE 1 LABORATORIO
- * GIOVANNI BELLORIO
- */
-
 /*
+ * @author giovanni
  * Scrivere un programma Java che stampa una cornice 10 x 10
  * 
  */
@@ -15,11 +13,7 @@ public class Main {
 	
 	// MAIN
 	public static void main(String[] args) {
-		System.out.println("INIZIO ESECUZIONE: ESERCIZIO 1\n");
-		
-		// DATI
-		
-		// INPUT
+		System.out.println("INIZIO ESECUZIONE: ESERCIZIO 2\n");
 		
 		// EXECUTE
 		for(int i=0; i<10; i++)
